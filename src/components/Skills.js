@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Skills = () => {
   return (
@@ -96,7 +96,7 @@ const Skills = () => {
               <span class="text-sm dark:text-black text-black">Git</span>
             </div>
           </div>
-          <div className="bg-white drop-shadow-md p-5 mb-5 mr-5 rounded-md">
+          {/* <div className="bg-white drop-shadow-md p-5 mb-5 mr-5 rounded-md">
             <div className="h-14 w-14 flex flex-col justify-center items-center">
               <img
                 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png"
@@ -105,8 +105,8 @@ const Skills = () => {
               />
               <span class="text-sm dark:text-black text-black">Jira</span>
             </div>
-          </div>
-          <div className="bg-white drop-shadow-md p-5 mb-5 mr-5 rounded-md">
+          </div> */}
+          {/* <div className="bg-white drop-shadow-md p-5 mb-5 mr-5 rounded-md">
             <div className="h-14 w-14 flex flex-col justify-center items-center">
               <img
                 src="https://thumbs.dreamstime.com/b/seo-logo-magnifying-glass-search-engine-optimization-blue-yellow-red-green-color-98240334.jpg"
@@ -115,7 +115,7 @@ const Skills = () => {
               />
               <span class="text-sm dark:text-black text-black">SEO</span>
             </div>
-          </div>
+          </div> */}
           <div className="bg-white drop-shadow-md p-5 mb-5 mr-5 rounded-md">
             <div className="h-14 w-14">
               <svg viewBox="0 0 128 128">
