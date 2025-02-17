@@ -1,6 +1,6 @@
-import userData from "@/constants/data";
-import Image from "next/image";
-import React from "react";
+import userData from '@/constants/data';
+import Image from 'next/image';
+import React from 'react';
 
 const Hero = () => {
   return (

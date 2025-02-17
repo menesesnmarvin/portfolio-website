@@ -1,10 +1,10 @@
-"use client";
-import React from "react";
-import userData from "@/constants/data";
+'use client';
+import React from 'react';
+import userData from '@/constants/data';
 
 export default function Projects() {
   return (
-    <section className="bg-[#F1F1F1] dark:bg-black md:h-screen px-4">
+    <section className="bg-[#F1F1F1] dark:bg-black px-4">
       <div className="max-w-6xl mx-auto md:h-40 h-24">
         <h1 className="text-3xl md:text-6xl font-bold md:py-20 pt-8 text-center text-[#C88A57]">
           Projects
